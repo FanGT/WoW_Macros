@@ -1,0 +1,7 @@
+/click LFDRoleCheckPopupAcceptButton
+/click LFDDungeonReadyDialogEnterDungeonButton
+/script AcceptTrade();
+/click StaticPopup1Button1
+/click LFGDungeonReadyDialogEnterDungeonButton
+/click ReadyCheckFrameYesButton
+/click PVPReadyDialogEnterBattleButton
