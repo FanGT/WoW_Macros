@@ -1,0 +1,3 @@
+/tar lunarlight
+/script if GetRaidTargetIndex("target") == nil then if (charm==nil) or (charm <= 0) then charm=9; end; charm=charm-1; SetRaidTarget("target", charm); end
+/focus
