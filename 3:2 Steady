@@ -1,0 +1,5 @@
+#showtooltip Steady Shot
+/cast !Auto Shot
+/cast [target=pettarget] Kill Command
+/cast Steady Shot
+/script UIErrorFrame: Clear ()
