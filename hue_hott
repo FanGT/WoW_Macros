@@ -1,4 +1,0 @@
-#showtooltip
-/use [nomounted,flyable] Chittering Animite
-/use [nomounted,noflyable] Sinrunner Blanchy
-/dismount [mounted]
