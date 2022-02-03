@@ -1,6 +1,0 @@
-#showtooltip
-/cast Resonating Arrow
-/cast Flayed Shot
-/cast Death Chakram
-/cast Wild Spirits
-/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Resonating Arrow" or G"Flayed Shot" or G"Death Chakram"or G"Wild Spirits")
