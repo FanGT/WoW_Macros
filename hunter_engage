@@ -1,0 +1,5 @@
+#showtooltip
+/targetenemy [noexists][dead][help]
+/cast Hunter's Mark
+/cast !Auto Shot
+/petattack
