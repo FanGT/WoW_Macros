@@ -1,6 +1,0 @@
-#showtooltip
-/cast Summon Steward
-/cast Soulshape
-/cast Door of Shadows
-/cast Fleshcraft
-/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Summon Steward" or G"Soulshape" or G"Door of Shadows" or G"Fleshcraft")
